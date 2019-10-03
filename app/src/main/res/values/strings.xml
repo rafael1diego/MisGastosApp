@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MisGastosApp</string>
+    <string name="titulo">Contabilidad de Ingresos / Egresos</string>
+    <array name="tipos">
+        <item>Tarjeta de Crédito</item>
+        <item>Ahorro</item>
+        <item>Efectivo</item>
+    </array>
+</resources>
